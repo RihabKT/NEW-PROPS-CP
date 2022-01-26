@@ -3,22 +3,26 @@
   justify-content: space-evenly;
   align-items: center;
   flex-direction: column;
+  
 }
-
 .newflex{
-  display: flex;
+  display:flex;
   justify-content: space-around;
   align-items: center;
-}
-
-button{
-  margin-right: 200px;
 
 }
-
 .App{
   background-color: rgb(251, 240, 218);
  text-align: center;
- font-weight: bolder;
+ font-weight: bold;
+ width: 100%;
+}
+
+button{
+  margin-left: 450px;
  
+}
+
+p,h1,h4,img{
+  margin-bottom:39px;
 }
